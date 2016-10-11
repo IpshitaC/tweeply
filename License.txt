@@ -1,0 +1,1 @@
+Tweeply is licensed under Apache 2.0 license. See LICENSE for more details.
