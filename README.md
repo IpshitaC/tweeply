@@ -42,7 +42,7 @@ Here's a demo of the query tweet and the reply tweet sent by the application.
 3. Run public/[index.html](https://github.com/IpshitaC/tweeply/blob/master/public/index.html)
 
 ## Contributing
-See [CONTRIBUTING.md](https://github.com/IpshitaC/tweeply/blob/master/CONTRIBUTING.md) for more details.
+See [CONTRIBUTING.md](https://github.com/IpshitaC/tweeply/blob/master/CONTRIBUTING.md) for more details. Or feel free to reach out to me via [mail](mailto:chatterjeei08@gmail.com).
 
 ##License
 Tweeply is licensed under Apache 2.0 license. See [LICENSE](https://github.com/IpshitaC/tweeply/blob/master/LICENSE) for more details.
