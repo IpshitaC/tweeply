@@ -1,4 +1,4 @@
-#Tweeply (Powered by IBM Watson)
+#Tweeply (Powered by IBM Watson) ![](https://github.com/IpshitaC/tweeply/blob/master/assets/watson.gif)
 
 ### Table of Contents
 1. [About](#about)
@@ -31,9 +31,15 @@ To read more about the IBM Watson Natural Language Classifier Service and its us
 
 ## Demo
 Here's a demo of the query tweet and the reply tweet sent by the application.
+@ipshi_chattons is the Twitter account for the bot and @ipshitachatterjee8 is the sample user account.
+![Request Tweet](https://github.com/IpshitaC/tweeply/blob/master/assets/request_tweet.png)
+
+![Reply Tweet](https://github.com/IpshitaC/tweeply/blob/master/assets/reply_tweet.png)
 
 ##Installation
-
+1. [Clone or download](https://github.com/IpshitaC/tweeply.git) the repository
+2. Update the credentials in [bluemix-settings.js](https://github.com/IpshitaC/tweeply/blob/master/bluemix-settings.js).
+3. Run public/[index.html](https://github.com/IpshitaC/tweeply/blob/master/public/index.html)
 
 ## Contributing
 See [CONTRIBUTING.md](https://github.com/IpshitaC/tweeply/blob/master/CONTRIBUTING.md) for more details.
