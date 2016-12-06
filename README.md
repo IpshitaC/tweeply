@@ -1,4 +1,4 @@
-#Tweeply (Powered by IBM Watson) ![](https://github.com/IpshitaC/tweeply/blob/master/assets/watson.gif)
+# :bird: Tweeply (Powered by IBM Watson) ![](https://github.com/IpshitaC/tweeply/blob/master/assets/watson.gif)
 
 ### Table of Contents
 1. [About](#about)
